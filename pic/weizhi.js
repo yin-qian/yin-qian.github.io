@@ -71,6 +71,7 @@ fs.readdir(path, function (err, files) {
                 return;
             }
             if (stats.isFile()) {
+              alert ('111');
               var suffix = getFilenameSuffix(files[index]);
               if(!(suffix=='.js'|| suffix == '.DS_Store'|| suffix == '.json')){
                 //要上传文件的本地路径
