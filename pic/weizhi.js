@@ -62,7 +62,7 @@ fs.readdir(path, function (err, files) {
     var arr = [];
     (function iterator(index) {
         if (index == files.length) {
-            fs.writeFile("./pic/tibet.json", JSON.stringify(arr, null, "\t"));
+            fs.writeFile("./tibet.json", JSON.stringify(arr, null, "\t"));
             return;
         }
 
@@ -74,7 +74,7 @@ fs.readdir(path, function (err, files) {
               var suffix = getFilenameSuffix(files[index]);
               if(!(suffix=='.js'|| suffix == '.DS_Store'|| suffix == '.json')){
                 //要上传文件的本地路径
-                filePath = path+'/pic/'+files[index];
+                filePath = path+'/'+files[index];
                 console.log('抓取到文件: '+files[index]);
                 //上传到七牛后保存的文件名
                 key = files[index];
