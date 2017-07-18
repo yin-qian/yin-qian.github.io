@@ -56,7 +56,6 @@ function getFilenameSuffix(file_name) {
 
 
 fs.readdir(path, function (err, files) {
-              alert ('1111111111111111111111111111');
 
     if (err) {
         return;
