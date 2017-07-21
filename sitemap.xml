@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2017/07/21/Untitled/</loc>
+    
+    <lastmod>2017-07-21T09:47:24.607Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2017/07/21/text123/</loc>
     
     <lastmod>2017-07-21T09:29:53.892Z</lastmod>
@@ -30,7 +37,21 @@
   </url>
   
   <url>
+    <loc>http://yoursite.com/assets/demo/hack_demo.html</loc>
+    
+    <lastmod>2016-12-30T22:16:28.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/assets/demo/border1px.html</loc>
+    
+    <lastmod>2016-12-30T22:16:28.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/assets/demo/gift/index.html</loc>
     
     <lastmod>2016-12-30T22:16:28.000Z</lastmod>
     
@@ -44,28 +65,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/assets/demo/pre_css3_demo/demo.html</loc>
-    
-    <lastmod>2016-12-30T22:16:28.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/assets/demo/jiugongge_demo2.html</loc>
-    
-    <lastmod>2016-12-30T22:16:28.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/assets/demo/coffee_pc_demo/pro-con.html</loc>
-    
-    <lastmod>2016-12-30T22:16:28.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/assets/demo/gift/index.html</loc>
     
     <lastmod>2016-12-30T22:16:28.000Z</lastmod>
     
@@ -86,7 +86,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/assets/demo/hack_demo.html</loc>
+    <loc>http://yoursite.com/assets/demo/pre_css3_demo/demo.html</loc>
+    
+    <lastmod>2016-12-30T22:16:28.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/assets/demo/jiugongge_demo2.html</loc>
     
     <lastmod>2016-12-30T22:16:28.000Z</lastmod>
     
