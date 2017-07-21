@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Yin-qian的博客</title>
-  <subtitle>胆小认生，不易相处</subtitle>
+  <title>Yinqian的博客</title>
+  <subtitle>暂未介绍</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -9,8 +9,8 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>Litten</name>
-    <email>litten225@qq.com</email>
+    <name>yinqian</name>
+    <email>yinqian_qian@163.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
