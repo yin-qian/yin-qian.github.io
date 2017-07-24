@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://yoursite.com/2017/07/21/text123/</loc>
-    <lastmod>2017-07-21T09:51:42.876Z</lastmod>
+    <lastmod>2017-07-24T13:17:25.575Z</lastmod>
     <data>
         <display>
         <title>markdown语法</title>
